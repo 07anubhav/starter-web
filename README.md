@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Showing how to use git and github together.
+Adding a line for rebashing example
 
 ## Introduction
 
