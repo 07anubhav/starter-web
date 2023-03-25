@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Showing how to use git and github together.
 Adding a line for rebashing example, then more changes from myfeature branch too.
+Doing some changes for emergency fix after stashing.
 
 ## Introduction
 
